@@ -1,0 +1,16 @@
+[
+  {
+    "id": "when-to-use-static-generation-vs-server-rendering",
+    "title": "When to Use Static Generation v.s. Server-side Rendering",
+    "publishedAt": "2022-01-02",
+    "formattedPublishedAt": "January 2, 2022",
+    "content": "..."
+  },
+  {
+    "id": "two-forms-of-prerendering",
+    "title": "Two Forms of Pre-rendering",
+    "publishedAt": "2022-01-01",
+    "formattedPublishedAt": "January 1, 2022",
+    "content": "..."
+  }
+]

@@ -9,3 +9,13 @@ body {
 * {
   box-sizing: border-box;
 }
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+small {
+  font-size: 1.125rem;
+  color: gray;
+}
